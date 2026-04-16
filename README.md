@@ -6,7 +6,5 @@
 ![](https://nirzak-streak-stats.vercel.app/?user=venkatram-s&theme=github_dark_dimmed&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=venkatram-s&theme=github_dark_dimmed&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-By the way, here's my [portfolio](https://venkatram-s.vercel.app/).
-
 ---
 [![](https://visitcount.itsvg.in/api?id=venkatram-s&icon=0&color=1)](https://visitcount.itsvg.in)
